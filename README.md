@@ -1,1 +1,1 @@
-# my-second-repo
+második repo
